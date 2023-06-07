@@ -1,7 +1,7 @@
 # OIBSIP
 # Iris-Flower-Classification
 The aim of the iris flower classification is to predict flowers based on their specific features by help of machine learning models.
-![0_VucNhXeY_YFMwHOZ](https://user-images.githubusercontent.com/118047264/226838508-c0ed0ecf-f575-4226-838d-4a2b88607538.jpg)
+![0_VucNhXeY_YFMwHOZ](https://www.google.com/url?sa=i&url=https%3A%2F%2Fpeaceadegbite1.medium.com%2Firis-flower-classification-60790e9718a1&psig=AOvVaw3eZVFcHpf8DquXuTWNTAkk&ust=1686169180679000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNCd2JCUsf8CFQAAAAAdAAAAABAE)
 
 •	This project dataset contains iris dataset iris.csv . Which contains four features (length and width of sepals and petals) of 50 samples of three species of Iris (Iris setosa, Iris virginica and Iris versicolor). These measures were used to create a linear discriminant model to classify the species.
 
